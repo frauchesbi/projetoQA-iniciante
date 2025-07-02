@@ -47,9 +47,9 @@ Aqui você encontra minhas anotações, casos de teste, bugs encontrados, exerc�
 
 ## Contato
 
-- **LinkedIn:** [ ]
-- **Email:** []
-- **GitHub:** [https://github.com/seuusuario]()
+- **LinkedIn:** []
+- **Email:** frauchesbi@gmail.com
+- **GitHub:** [https://github.com/frauchesbi]()
 
 ---
 
