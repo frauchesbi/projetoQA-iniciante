@@ -13,7 +13,9 @@ Aqui você encontra minhas anotações, casos de teste, bugs encontrados, exerc�
 -  Estudando testes manuais, ferramentas como Jira e automação com Cypress
 
 ---
-
+## Estudos
+- [Logica de Programação](https://github.com/frauchesbi/projetoQA-iniciante/blob/main/estudos/logica.md)
+---
 ## Estrutura do Repositório
 
 | Pasta | Conteúdo |
