@@ -1,0 +1,19 @@
+==
+JAVASRIPT 
+==
+
+PREPARANDO O AMBIENTE: 
+Utilizei o projeto na qual eu estava aprendendo sobre programação. 
+
+==
+AULA 1:
+-Eu abri o projeto no Visual Studio e utilizei o Live Server para visualizar a aplicação.
+Compreendi que, ao invés de usar alertas, manipulei elementos diretamente no HTML.
+Selecionei a tag <h1> para definir o título da página:
+Usei document.querySelector('h1') para selecionar a tag.
+Alterei seu conteúdo com innerHTML, definindo o título como "Jogo do número secreto".
+-Selecionei um parágrafo <p> para inserir uma mensagem:
+Usei document.querySelector('p') para selecionar o parágrafo.
+Inserí a mensagem "Escolha um número entre 1 e 10" com innerHTML.
+-Aprendi que o JavaScript permite manipular o HTML de maneira dinâmica, facilitando a experiência do usuário.
+
